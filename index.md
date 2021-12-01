@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Portfolio Website
 
 You can use the [editor on GitHub](https://github.com/judetaylor2/PortfolioWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
